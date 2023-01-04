@@ -1,4 +1,5 @@
-# SQL-Tutorials
+# SQL-Tutorials 
+date - 4th Jan 2023 
 All the SQL Syntax and projects
 
 ## Select Statement
@@ -20,6 +21,7 @@ WHERE (Condition is True/False)
       d) conditions in parenthesis are treated as a single unit and are evaluated together.
      
 7. A bit column can store either a 1, representing true, or a 0, representing false. If a column is declared as NOT NULL, data is required in that column.
+8. Adding Distinct after select gets rid off duplicate orders in tab;e.
 
 ### Joints
 1. Joints allows us to use common relationships, such as foreign key relationships to look at data in more than one table in single query.
