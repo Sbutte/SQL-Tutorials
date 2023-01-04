@@ -1,5 +1,6 @@
 # SQL-Tutorials 
-date - 4th Jan 2023 
+Date - 4th Jan 2023 
+
 All the SQL Syntax and projects
 
 ## Select Statement
